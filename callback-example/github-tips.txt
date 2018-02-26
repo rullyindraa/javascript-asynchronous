@@ -1,0 +1,17 @@
+Here is 5 GitHub tips for new coders by Alyson La
+
+Tip #1: Change the default text editor
+Default text editor when using Git from the terminl is VIM. That will be confusing using VIM if we dont know the specifics VIM commands. The easily way is to change our text editor to Atom, Sublime, or TextMate, and many others.
+
+Tip #2: Change the dotfiles
+Dotfiles is genius! We can customize our terminal prompt, so we can see what git branch we are on and also know if we have uncommited changes.
+
+Tip #3: Install Hub
+Hub is command line tool that make it easier use GitHub. By typing `hub browse` in the terminal, it will auto-magically open the url of the repository directly in out browser.
+
+Tip #4: Practice merge coflicts
+There will be times we get the merge conflicts that will be sucks. The best way to used to handling the merge conflicts is to practice often. We can walked through the documentation or watched Youtube video on how to fix merge conflicts, and also we can use GitHub User Interface to fix it.
+
+Tip #5: Make a GitHub page
+We can practice Git and GitHub skills by make GitHub page. Just make a simple website using HTML, CSS, and Javascript from a coding tutorial. It will be host for free!
+
